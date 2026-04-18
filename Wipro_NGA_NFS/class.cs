@@ -51,7 +51,7 @@ class program
 //         s1.DisplayInfo();
 //         s2.DisplayInfo();
 
-//         // Update values
+//         
 //         s1.UpdateName("Arnav");
 //         s1.UpdateId(201);
 
