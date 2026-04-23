@@ -1,0 +1,20 @@
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment Day-4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment Day-4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment Day-4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment Day-4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment Day-4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_4/Scenario_2_Social_Media_Platform/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
