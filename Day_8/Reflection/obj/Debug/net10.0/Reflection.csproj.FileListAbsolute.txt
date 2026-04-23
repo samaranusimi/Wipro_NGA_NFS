@@ -1,0 +1,15 @@
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/bin/Debug/net10.0/Reflection
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/bin/Debug/net10.0/Reflection.deps.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/bin/Debug/net10.0/Reflection.runtimeconfig.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/bin/Debug/net10.0/Reflection.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/bin/Debug/net10.0/Reflection.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.sourcelink.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/refint/Reflection.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/Reflection.genruntimeconfig.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Reflection/obj/Debug/net10.0/ref/Reflection.dll

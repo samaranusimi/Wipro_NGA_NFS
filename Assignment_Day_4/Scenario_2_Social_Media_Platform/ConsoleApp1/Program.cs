@@ -20,7 +20,10 @@ class Program
         user.Add(1);
         Console.WriteLine("Users Count: "+user.Count);
 
-        
+        post.Add("First Post");
+        likes["First Post"] = 0;
+        actions.Push("Post Added");
+        notification.Enqueue("New post added");
 
     }
 }
