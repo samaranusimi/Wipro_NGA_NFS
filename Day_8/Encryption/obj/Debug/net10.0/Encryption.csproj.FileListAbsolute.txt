@@ -1,0 +1,15 @@
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/bin/Debug/net10.0/Encryption
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/bin/Debug/net10.0/Encryption.deps.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/bin/Debug/net10.0/Encryption.runtimeconfig.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/bin/Debug/net10.0/Encryption.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/bin/Debug/net10.0/Encryption.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.sourcelink.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/refint/Encryption.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/Encryption.genruntimeconfig.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Day_8/Encryption/obj/Debug/net10.0/ref/Encryption.dll
