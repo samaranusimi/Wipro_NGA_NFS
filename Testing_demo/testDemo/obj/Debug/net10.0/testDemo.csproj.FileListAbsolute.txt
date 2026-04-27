@@ -1,0 +1,11 @@
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/testDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/testDemo.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/testDemo.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/testDemo.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/bin/Debug/net10.0/testDemo.deps.json
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/bin/Debug/net10.0/testDemo.dll
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/bin/Debug/net10.0/testDemo.pdb
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/testDemo.dll
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/refint/testDemo.dll
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/testDemo.pdb
+/Users/samaranusimi/Desktop/Wipro/Testing_demo/testDemo/obj/Debug/net10.0/ref/testDemo.dll
