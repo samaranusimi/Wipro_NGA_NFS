@@ -6,8 +6,8 @@ class Program
     static void Main()
     {
         List<string> post = new List<string>();
-        Dictionary <string, int> likes = new Dictionary <string, int>();
-        HashSet <int> user = new HashSet <int>();
+        Dictionary<string, int> likes = new Dictionary<string, int>();
+        HashSet<int> user = new HashSet<int>();
         Stack<string> actions = new Stack<string>();
         Queue<string> notification = new Queue<string>();
 
@@ -18,12 +18,34 @@ class Program
         user.Add(4);
         user.Add(2);
         user.Add(1);
-        Console.WriteLine("Users Count: "+user.Count);
+        Console.WriteLine("Users Count: " + user.Count);
 
         post.Add("First Post");
         likes["First Post"] = 0;
         actions.Push("Post Added");
         notification.Enqueue("New post added");
+
+        likes["First Post"] = likes["First Post"] + 1;
+        actions.Push("Liked Post");
+        notification.Enqueue("Post Liked");
+
+        Console.WriteLine("\nLikes:");
+        foreach (var item in likes)
+        {
+            Console.WriteLine(item.Key + " -> " + item.Value);
+        }
+
+        Console.WriteLine("\nUndo Action:");
+        if (actions.Count > 0)
+        {
+            Console.WriteLine(actions.Pop());
+        }
+
+        Console.WriteLine("\nNotifications:");
+        while (notification.Count > 0)
+        {
+            Console.WriteLine(notification.Dequeue());
+        }
 
     }
 }
