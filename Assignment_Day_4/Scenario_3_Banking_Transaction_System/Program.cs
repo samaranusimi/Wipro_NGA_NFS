@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// Simple Transaction class
 class Transaction
 {
     public string Id;
@@ -21,7 +20,7 @@ class Program
 
         accounts["A1"] = 1000;
 
-        List<Transaction> transactions = new List<Transaction> { 
+        List<Transaction> transactions = new List<Transaction> {
         new Transaction { Id = "T1", Amount = 500 },
         new Transaction { Id = "T2", Amount = -200 },
         new Transaction { Id = "T1", Amount = 300 }  };
