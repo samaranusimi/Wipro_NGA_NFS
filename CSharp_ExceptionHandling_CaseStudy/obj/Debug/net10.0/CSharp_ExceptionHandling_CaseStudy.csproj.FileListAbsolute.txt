@@ -1,0 +1,15 @@
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/bin/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/bin/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.deps.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/bin/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.runtimeconfig.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/bin/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/bin/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.sourcelink.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/refint/CSharp_ExceptionHandling_CaseStudy.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/CSharp_ExceptionHandling_CaseStudy.genruntimeconfig.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/CSharp_ExceptionHandling_CaseStudy/obj/Debug/net10.0/ref/CSharp_ExceptionHandling_CaseStudy.dll
