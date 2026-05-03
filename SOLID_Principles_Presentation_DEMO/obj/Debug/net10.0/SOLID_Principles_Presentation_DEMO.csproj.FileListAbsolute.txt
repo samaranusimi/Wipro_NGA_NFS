@@ -1,0 +1,15 @@
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/bin/Debug/net10.0/SOLID_Principles_Presentation_DEMO
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/bin/Debug/net10.0/SOLID_Principles_Presentation_DEMO.deps.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/bin/Debug/net10.0/SOLID_Principles_Presentation_DEMO.runtimeconfig.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/bin/Debug/net10.0/SOLID_Principles_Presentation_DEMO.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/bin/Debug/net10.0/SOLID_Principles_Presentation_DEMO.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.sourcelink.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/refint/SOLID_Principles_Presentation_DEMO.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/SOLID_Principles_Presentation_DEMO.genruntimeconfig.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/SOLID_Principles_Presentation_DEMO/obj/Debug/net10.0/ref/SOLID_Principles_Presentation_DEMO.dll
