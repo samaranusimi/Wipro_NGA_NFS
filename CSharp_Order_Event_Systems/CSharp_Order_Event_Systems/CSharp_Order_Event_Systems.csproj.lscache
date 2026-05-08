@@ -58,7 +58,13 @@ obj/Debug/net10.0/
  .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
  CSharp_Order_Event_Systems.AssemblyInfo.cs
  CSharp_Order_Event_Systems.GlobalUsings.g.cs
+Order.cs
+OrderPreocessor.cs
 Program.cs
+Services/
+ EmailService.cs
+ LoggerService.cs
+ SMSService.cs
 
 [metadataReferences]
 <DOTNET>/packs/Microsoft.NETCore.App.Ref/10.0.5/ref/net10.0/
