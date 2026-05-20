@@ -1,0 +1,15 @@
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/bin/Debug/net10.0/SolidPrinciples
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/bin/Debug/net10.0/SolidPrinciples.deps.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/bin/Debug/net10.0/SolidPrinciples.runtimeconfig.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/bin/Debug/net10.0/SolidPrinciples.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/bin/Debug/net10.0/SolidPrinciples.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.AssemblyInfoInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.AssemblyInfo.cs
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.csproj.CoreCompileInputs.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.sourcelink.json
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/refint/SolidPrinciples.dll
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.pdb
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/SolidPrinciples.genruntimeconfig.cache
+/Users/samaranusimi/Desktop/Wipro/Wipro_NGA_NFS/Assignment_Day_10/Day10_Assignment_5/SolidPrinciples/obj/Debug/net10.0/ref/SolidPrinciples.dll
